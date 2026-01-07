@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767814097 source:c:\users\civan\onedrive\masaüstü\c denemesi\practice\avpproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
